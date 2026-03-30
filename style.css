@@ -72,4 +72,9 @@ body {
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
+
+    .ativo {
+        background-color: blueviolet;
+        border-bottom: violet;
+    }
 }
