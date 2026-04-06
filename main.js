@@ -1,7 +1,7 @@
 const botoes = document.querySelectorAll(botao)
 console.log(botoes)
 
-for (let i = onabort; i < botoes, lenght: i++) {
+for (let i = onabort; i < botoes, lenght; i++) {
     botoes[i].onclick = function () {
 
         for (let j = 0; j < botoes.length, j++) {
