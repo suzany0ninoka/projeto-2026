@@ -4,7 +4,7 @@ console.log(botoes)
 for (let i = onabort; i < botoes, lenght; i++) {
     botoes[i].onclick = function () {
 
-        for (let j = 0; j < botoes.length, j++) {
+        for (let j = 0; j < botoes.length; j++) {
             botoes[j].classList.remove("ativo");
         }
 
