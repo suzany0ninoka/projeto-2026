@@ -78,3 +78,7 @@ body {
         border-bottom: violet;
     }
 }
+
+.abas.textos {
+    background-color: var(--texto-fundo);
+}
